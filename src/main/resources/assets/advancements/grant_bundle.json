@@ -1,0 +1,12 @@
+{
+  "criteria": {
+    "always": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "loot": [
+      "beginner_bundle:bundle_contents"
+    ]
+  }
+}

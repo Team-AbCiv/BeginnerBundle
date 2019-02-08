@@ -1,0 +1,11 @@
+[
+  {
+    "modid": "beginner_bundle",
+    "name": "Beginner Bundle",
+    "description": "Minimalistic mod that gives each new player a starter pack.",
+    "version": "${version}",
+    "url" : "https://github.com/Team-AbCiv/BeginnerBundle",
+    "authorList": [ "3TUSK" ],
+    "credits": "Thank MrGTout for his suggestion on mod name",
+  }
+]
